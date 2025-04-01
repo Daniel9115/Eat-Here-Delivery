@@ -1,0 +1,140 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
+}
+
+.secao_infomarcoes {
+    display: flex;
+    position: sticky;
+    top: 0;
+    justify-content: space-between;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding: 11px;
+}
+
+.nav_menu {
+    display: flex;
+    justify-content: space-between;
+    margin: 35px 20px 35px 20px;
+}
+
+.menu_opt {
+    display: flex;
+    align-items: center;
+}
+
+.menu_opt>p>a {
+    margin: 0 20px 0 20px;
+    font-size: 22px;
+    color: transparent;
+    -webkit-text-stroke-width: 0.9px;
+    -webkit-text-stroke-color: black;
+    text-decoration: none;
+}
+
+.menu_opt>div {
+    width: 2px;
+    height: 30px;
+    background-color: #797979;
+    margin: 0 20px 0 30px;
+}
+
+.icone_menu {
+    width: 35px;
+    height: 35px;
+}
+
+header>div:nth-child(3) {
+    width: 100%;
+    height: 2px;
+    background-color: #797979;
+}
+
+main>h1 {
+    text-align: center;
+    margin: 35px 0 35px 0;
+
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 79vh;
+}
+
+main>div {
+    width: 80%;
+    height: 2px;
+    background-color: #797979;
+}
+
+form {
+    width: 60%;
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    grid-template-rows: 62px 62px 62px;
+    margin: 6% 0 6% 0;
+    row-gap: 20px;
+    justify-content: center;
+}
+
+.secao_input_contato {
+    background-color: #D9D9D9;
+    border-radius: 10px;
+    height: 60px;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    border: solid 1px black;
+}
+
+.secao_input_contato>input {
+    width: 50%;
+}
+
+.secao_input_contato>* {
+    font-size: 20px;
+    font-weight: 450;
+    border-style: none;
+    background-color: #D9D9D9;
+    margin-left: 3%;
+}
+
+.secao_input_assunto {
+    grid-column: 2;
+    grid-row: 1 / 4;
+    background-color: #D9D9D9;
+    border-radius: 10px;
+    height: 100%;
+    width: 80%;
+    border: solid 1px black;
+    display: flex;
+    align-items: flex-start;
+}
+
+.secao_input_assunto>* {
+    font-size: 20px;
+    font-weight: 450;
+    border-style: none;
+    background-color: #D9D9D9;
+    margin-left: 3%;
+    margin-top: 3%;
+}
+
+.secao_input_assunto>input {
+    height: 90%;
+    width: 73%;
+}
+
+footer {
+    width: 100%;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.50);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
