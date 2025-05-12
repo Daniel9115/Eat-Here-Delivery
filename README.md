@@ -11,7 +11,7 @@ Um site de delivery de alimentos com uma interface simples e acessível, permiti
 - **Menu de navegação**: Navegação simples com links para páginas de busca, pedidos, contato, cadastro e quem somos.
 - **Busca de produtos**: Interface para pesquisa de itens no menu.
 - **Informações de contato**: Exibição do horário de funcionamento e número de telefone para contato.
-- **Responsividade**: O site foi desenvolvido para ser visualizado em dispositivos de desktop.
+- **Responsividade**: O site foi desenvolvido para ser visualizado em dispositivos de DESKTOP.
 - **Rodapé**: Contém informações de direitos autorais e créditos.
 
 ## 🛠️ Tecnologias Usadas
