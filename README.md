@@ -4,7 +4,7 @@ Um site de delivery de alimentos com uma interface simples e acessível, permiti
 
 ## 🖥️ Visualização
 
-Abra o arquivo `index.html` no seu navegador para visualizar o site.
+[Clique aqui](https://daniel9115.github.io/Eat-Here-Delivery/index.html) para visualizar o site.
 
 ## 🚀 Funcionalidades
 
