@@ -19,7 +19,6 @@ Acesse a demonstração online: [https://delivery-db.netlify.app/](https://deliv
 
 - HTML5
 - CSS3
-- JavaScript (vanilla)
 - Google Fonts (Roboto, Allerta Stencil)
 - Design responsivo
 
@@ -89,8 +88,6 @@ npx live-server
 
 O projeto foi desenvolvido com foco em responsividade, garantindo uma boa experiência em:
 - Desktop
-- Tablets
-- Smartphones
 
 ## 🤝 Contribuição
 
@@ -102,18 +99,14 @@ Contribuições são bem-vindas! Para contribuir:
 4. Push para a branch (`git push origin feature/AmazingFeature`)
 5. Abra um Pull Request
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## 👥 Autores
 
-- **Desenvolvedor** - *Trabalho inicial* - [Seu Nome](https://github.com/seu-usuario)
+- **Desenvolvedor** - *Trabalho inicial* - [Daniel Bitencourt](https://github.com/daniel9115)
 
 ## 📞 Contato
 
-- **Horário de Funcionamento**: Seg a Sex - 9:00 - 18:00
-- **Telefone**: (XX) XXXXX - XXXX
+
+- **Email**:  <a href="mailto:bitencourtdaniel30@gmail.com" target="_blank">Clique Aqui!</a>
 - **Website**: [https://delivery-db.netlify.app/](https://delivery-db.netlify.app/)
 
 ---
