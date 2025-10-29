@@ -107,7 +107,7 @@ Contribuições são bem-vindas! Para contribuir:
 
 
 - **Email**:  <a href="mailto:bitencourtdaniel30@gmail.com" target="_blank">Clique Aqui!</a>
-- **Website**: [https://delivery-db.netlify.app/](https://delivery-db.netlify.app/)
+- **Website**: [https://daniel-bitencourt.netlify.app/](https://daniel-bitencourt.netlify.app/)
 
 ---
 
