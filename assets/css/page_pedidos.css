@@ -1,0 +1,151 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+    box-sizing: border-box;
+}
+
+.secao_infomarcoes {
+    display: flex;
+    position: sticky;
+    top: 0;
+    justify-content: space-between;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    padding: 11px;
+}
+
+.nav_menu {
+    display: flex;
+    justify-content: space-between;
+    margin: 35px 20px 35px 20px;
+}
+
+.menu_opt {
+    display: flex;
+    align-items: center;
+}
+
+.menu_opt>p>a {
+    margin: 0 20px 0 20px;
+    font-size: 22px;
+    color: transparent;
+    -webkit-text-stroke-width: 0.9px;
+    -webkit-text-stroke-color: black;
+    text-decoration: none;
+}
+
+.menu_opt>div {
+    width: 2px;
+    height: 30px;
+    background-color: #797979;
+    margin: 0 20px 0 30px;
+}
+
+.icone_menu {
+    width: 35px;
+    height: 35px;
+}
+
+header>div:nth-child(3) {
+    width: 100%;
+    height: 2px;
+    background-color: #797979;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 97vh;
+    padding: 0 20% 0 20%;
+}
+
+main>h1 {
+    margin: 40px 0 40px 0;
+}
+
+.barra_espaco{
+    width: 100%;
+    height: 2px;
+    background-color: #797979;
+
+}
+
+.item_pedido>p {
+    font-weight: 800;
+}
+
+.item_pedido>p+p {
+    font-weight: 500;
+    display: flex;
+    justify-content: right;
+}
+.item_pedido>p:nth-child(4) {
+    grid-row: 2;
+    grid-column: 1/3;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.item_pedido {
+    width: 80%;
+    margin: 40px 0 40px 0;
+    display: grid;
+    grid-template-columns: 110px 0.70fr 130px;
+    grid-template-rows: 110px 40px;
+    justify-content: center;
+}
+
+.item_pedido>img {
+    width: 100px;
+    height: 100px;
+    grid-row: 1/2;
+}
+
+.btn_add{
+    grid-column: 3;
+    display: flex;
+    background-color: #D9D9D9;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+}
+.btn_add> img{
+    width: 18px;
+    height: 18px;
+    margin: 0 30px 0 30px;
+}
+
+.total{
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    margin: 20px 0 4% 0;
+}
+.btn_add_pay{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 6%;
+}
+.btn_add_pay> a{
+    color: black;
+    text-align: center;
+    text-decoration: none;
+    font-size: 20px;
+    width: 35%;
+    background-color: #00FF0A;
+    border-radius: 8px;
+    border-style: none;
+    padding: 22px 38px 22px 38px ;
+}
+
+footer {
+    width: 100%;
+    height: 50px;
+    background-color: rgba(0, 0, 0, 0.50);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
